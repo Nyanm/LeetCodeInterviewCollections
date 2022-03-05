@@ -15,4 +15,8 @@ class Solution:
             cnt += n
         return cnt
 
-# 到现在为止最短小的题目
+
+"""
+到现在为止最短小的题目
+本质脑筋急转弯
+"""

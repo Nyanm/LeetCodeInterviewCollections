@@ -65,4 +65,7 @@ class Solution:
             # print(f'index[{index}]:{nums[index]}, max cur:{max_cur}, min_cur:{min_cur}, product:{max_product}')
         return max_product
 
-# 我是笨比
+
+"""
+我是笨比，个动规写了这么久还绕死胡同里了，疯狂抓边界条件
+"""
