@@ -3,7 +3,6 @@
 提示 n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1
 https://leetcode-cn.com/problems/factorial-trailing-zeroes/
 """
-from math import factorial
 
 
 class Solution:

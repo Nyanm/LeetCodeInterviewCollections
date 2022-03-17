@@ -60,6 +60,7 @@ class Solution:
         else:
             return 0
 
+
 """
 抄了个很好看的解法
 def myAtoi(self, s: str) -> int:

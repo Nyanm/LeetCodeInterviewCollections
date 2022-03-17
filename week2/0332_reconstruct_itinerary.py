@@ -6,9 +6,8 @@
 假定所有机票至少存在一种合理的行程。且所有的机票 必须都用一次 且 只能用一次。
 https://leetcode-cn.com/problems/reconstruct-itinerary
 """
-from collections import defaultdict
-from functools import reduce
 import heapq
+from collections import defaultdict
 from typing import List
 
 

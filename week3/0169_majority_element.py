@@ -33,6 +33,7 @@ class Solution:
             bisect_right = search(mid + 1, right)
             if bisect_right == bisect_left:
                 return bisect_left
+
             left_cnt, right_cnt = 0, 0
             for index in range(left, right + 1):
                 left_cnt += (nums[index] == bisect_left)
