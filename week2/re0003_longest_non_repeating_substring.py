@@ -32,7 +32,7 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print(Solution.lengthOfLongestSubstring("abcabcb"))
+    print(Solution.lengthOfLongestSubstring("bbbbbbbbb"))
 
 """
 TAG 双指针 滑动窗口 哈希表
